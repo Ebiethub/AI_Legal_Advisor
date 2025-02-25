@@ -1,0 +1,12 @@
+streamlit
+langchain_groq
+langchain_core
+langchain.chains
+langchain_community
+langchain_text_splitters
+langchain.embeddings
+os
+re
+datetime
+tempfile
+dotenv
