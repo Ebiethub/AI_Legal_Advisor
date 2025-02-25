@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-st.secrets["GROQ_API_KEY"]
+GROQ_API_KEY=st.secrets["GROQ_API_KEY"]
 if not GROQ_API_KEY:
     st.error("GROQ API Key is missing. Please set it in your .env file.")
     st.stop()
