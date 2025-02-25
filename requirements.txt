@@ -4,8 +4,6 @@ langchain_core
 langchain
 langchain_community
 langchain_text_splitters
-os
 re
 datetime
 tempfile
-dotenv
