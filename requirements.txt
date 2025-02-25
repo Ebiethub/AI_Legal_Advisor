@@ -1,7 +1,7 @@
 streamlit
 langchain_groq
 langchain_core
-langchain.chains
+langchain
 langchain_community
 langchain_text_splitters
 langchain.embeddings
